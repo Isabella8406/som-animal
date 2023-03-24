@@ -1,3 +1,3 @@
 # som-animal
-clicar na imagem
+clicar na imagem....
 os arquivos estão no SIM.rar (html..js).
